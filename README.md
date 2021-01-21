@@ -9,14 +9,14 @@
 
 * [Python-Practice](#perl-practice)
     * [Python-Datatype](#Perl-Datatype)
-    * [Control-Structure](#Control-Structure)
-    * [Loop-Structure](#Loop-Structure)
     * [Numbers](#Numbers)
     * [Strings](#Strings)
     * [Lists](#Lists)
     * [Tuples](#Tuples)
     * [Dictionary](#Dictionary)
     * [Date-Time](#Date-Time)
+    * [Control-Structure](#Control-Structure)
+    * [Loop-Structure](#Loop-Structure)
     * [Functions](#Functions)
     * [Modules](#Modules)
     * [Files-I/O](#Files-I/O)
@@ -36,14 +36,14 @@
 ## Python-Practice
 
 ### Python-Datatype
-### Control-Structure
-### Loop-Structure
 ### Numbers
 ### Strings]
 ### Lists
 ### Tuples
 ### Dictionary
 ### Date-Time
+### Control-Structure
+### Loop-Structure
 ### Functions
 ### Modules
 ### Files-I/O
