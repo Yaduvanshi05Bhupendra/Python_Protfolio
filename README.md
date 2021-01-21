@@ -2,7 +2,7 @@
 <p style="text-align: center;"> 
  # Python Practice and Projects
 </p>
-
+<p align="center">centered text</p>
 <br/>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
