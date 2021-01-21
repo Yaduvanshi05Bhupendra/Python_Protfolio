@@ -33,6 +33,8 @@
 * [Contact-Info](#Contact-Info)
 * [License](#License)
 
+## Python-Practice
+
 ## Python-mini-Projects
 Following are the Python projects
 
