@@ -1,4 +1,4 @@
-# Python Practice and Projects
+<h1 align="center">Python Practice and Projects</h1>
 
 <br/>
 <p align="center">
