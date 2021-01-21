@@ -1,4 +1,7 @@
-# Python Practice and Projects
+
+<p style="text-align: center;"> 
+ # Python Practice and Projects
+</p>
 
 <br/>
 <p align="center">
